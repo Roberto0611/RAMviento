@@ -10,6 +10,11 @@ Este repositorio contiene mis soluciones para el **RAMviento**, un calendario de
 
 El reto consiste en resolver un problema algorítmico diario desde el **1 de diciembre hasta Navidad (25 de diciembre)**
 
+## 🚀 Progreso
+
+| Día | Problema | Solución | Dificultad | Estado |
+|:---:|:---|:---:|:---:|:---:|
+| 01 | [New Year and the Christmas Ornament](https://codeforces.com/gym/653965/problem/Day1) | [Ver Código](day01.cpp) | Implementation, Brute Force | ✅ Completado |
 ## 🛠️ Tecnologías
 
 Las soluciones están implementadas principalmente en:
