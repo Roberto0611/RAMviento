@@ -14,4 +14,3 @@ El reto consiste en resolver un problema algorítmico diario desde el **1 de dic
 
 Las soluciones están implementadas principalmente en:
 * **C++** (Para mayor eficiencia en tiempo de ejecución)
-co
